@@ -3,6 +3,7 @@ Linear search is a search algorithm where a sequential search is made over all i
 
 #### Algorithm
 
+```
 Linear Search (Array A, Value x)  
 
 Step 1: Set i to 1  
@@ -13,9 +14,9 @@ Step 5: Go to Step 2
 Step 6: Print Element x Found at index i and go to step 8  
 Step 7: Print element not found  
 Step 8: Exit  
-
+```
 #### Pseudocode
-
+```
 procedure linear_search (list, value)  
 
    for each item in the list  
@@ -25,3 +26,4 @@ procedure linear_search (list, value)
    end for  
 
 end procedure  
+```

@@ -1,4 +1,4 @@
-package com.pgichure.samples;
+package com.pgichure.samples.dsa.linear;
 
 public class LinearSearch {
 

@@ -6,3 +6,4 @@ Data Structures are the programmatic way of storing data for efficient use. In t
 
 #### Content
 1.  [Linear Search](linear-search)
+1.  [Binary Search](binary-search)

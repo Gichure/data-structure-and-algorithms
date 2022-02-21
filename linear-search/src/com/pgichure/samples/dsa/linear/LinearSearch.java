@@ -8,7 +8,7 @@ public class LinearSearch {
 		
 		int search_number = 89;
 		
-		int index = 1;
+		int index = 0;
 		
 		for(int number : values) {
 			
